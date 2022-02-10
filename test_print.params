@@ -1,0 +1,13 @@
+make_base_plate = false
+make_lever = false
+make_spool_left = false
+make_spool_right = false
+make_friction_wheel = false
+make_inset = false
+make_blocking_spring = false
+make_reel_counterpart = false
+make_handle_lock = false
+make_nozzel_adapter = false
+make_lever_actuator = false
+make_tape_chute = false
+make_test_print = true
